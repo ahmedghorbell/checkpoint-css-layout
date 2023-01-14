@@ -262,6 +262,7 @@ img {
 .offices__slider{
     display: flex;
     flex-wrap: wrap;
+    padding-left: 200px;
 }
 .office__inner {
     box-shadow: 0 5px 10px 0 transparent;
